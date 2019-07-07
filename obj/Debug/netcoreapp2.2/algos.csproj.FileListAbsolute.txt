@@ -1,0 +1,11 @@
+/Users/donovan/Documents/donovan/c#/algos/bin/Debug/netcoreapp2.2/algos.deps.json
+/Users/donovan/Documents/donovan/c#/algos/bin/Debug/netcoreapp2.2/algos.runtimeconfig.json
+/Users/donovan/Documents/donovan/c#/algos/bin/Debug/netcoreapp2.2/algos.runtimeconfig.dev.json
+/Users/donovan/Documents/donovan/c#/algos/bin/Debug/netcoreapp2.2/algos.dll
+/Users/donovan/Documents/donovan/c#/algos/bin/Debug/netcoreapp2.2/algos.pdb
+/Users/donovan/Documents/donovan/c#/algos/obj/Debug/netcoreapp2.2/algos.csprojAssemblyReference.cache
+/Users/donovan/Documents/donovan/c#/algos/obj/Debug/netcoreapp2.2/algos.csproj.CoreCompileInputs.cache
+/Users/donovan/Documents/donovan/c#/algos/obj/Debug/netcoreapp2.2/algos.AssemblyInfoInputs.cache
+/Users/donovan/Documents/donovan/c#/algos/obj/Debug/netcoreapp2.2/algos.AssemblyInfo.cs
+/Users/donovan/Documents/donovan/c#/algos/obj/Debug/netcoreapp2.2/algos.dll
+/Users/donovan/Documents/donovan/c#/algos/obj/Debug/netcoreapp2.2/algos.pdb
